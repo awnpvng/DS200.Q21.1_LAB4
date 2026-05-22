@@ -1,0 +1,24 @@
+=== Task 9: Customer segmentation ===
+
+Median order value threshold: 103.55 EUR
+Frequency threshold: 3+ orders
+
+--- Segment Summary ---
+Segment                   CustomerCount   AvgOrders    AvgValue(EUR)   AvgFreqDays
+--------------------------------------------------------------------------------
+High-Value Infrequent     50147           1.00         256.33          0.0
+Low-Value Infrequent      48519           1.00         61.62           0.0
+
+--- Sample customers per segment (top 5 each) ---
+Customer_Trx_ID                      OrderCount   AvgValue(EUR)   FreqDays        Segment
+----------------------------------------------------------------------------------------------------
+1617b1357756262bfa56ab541c47bc16     1            13664.08        0.0             High-Value Infrequent
+ec5b2ba62e574342386871631fafd3fc     1            7274.88         0.0             High-Value Infrequent
+c6e2731c5b391845f6800c97401a43a9     1            6929.31         0.0             High-Value Infrequent
+f48d464a0baaea338cb25f816991ab1f     1            6922.21         0.0             High-Value Infrequent
+3fd6777bbce08a352fddd04e4a7cc8f6     1            6726.66         0.0             High-Value Infrequent
+b73534f953f7c9cbad86f6bfe75ab43a     1            103.54          0.0             Low-Value Infrequent
+7a4b3b2a8d65d37fdfbc03846521c041     1            103.54          0.0             Low-Value Infrequent
+29d8b10c320fc38f43d93ef3d4f68a74     1            103.53          0.0             Low-Value Infrequent
+309d5fcef3ce034d709f2f89550f8b4b     1            103.52          0.0             Low-Value Infrequent
+bb75bfdea51d71f445b6ac9939721d18     1            103.51          0.0             Low-Value Infrequent

@@ -5,6 +5,7 @@
 
 ## Thông tin sinh viên
 - **MSSV:** 23520032
+- **Họ và Tên:** Trương Hoàng Thành An
 - **GitHub:** [awnpvng](https://github.com/awnpvng/DS200.Q21.1_LAB4.git)
 
 ## Cấu trúc thư mục
